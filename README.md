@@ -1,130 +1,70 @@
-<h1 align="center">Hi 👋, I'm Christopher Bobadilla Plasencia</h1>
+<div align="center">
 
+# Christopher Bobadilla Plasencia
 
-
-<h3 >A cross-platform Flutter developer +2 years.
-Located in Naples, Florida - United State</h3>
-
-
-- 🔭 I’m currently working on my own proyects, I will share them soon.
-- 🌱 I’m currently learning English at Lorenzo Walker Technical College.
-- 💬 Ask me about Dart and Flutter I love them a lot.
-
-<h3 align="left">Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-bobadilla-plasencia)
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:criszx17dev@icloud.com)
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Criszx17Dev)
-
-[![chrisbp.com](https://img.shields.io/badge/-CHRISBP.COM-blue?style=flat&logo=Flutter&logoColor=white&color=00857a&)](https://chrisbp.com/)
-
-
-
-
-
-
-
-
-<h2 align="left">✨Skills:</h2>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Backend as a Service(BaaS):</h3>
-<p align="left">
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  
-<h3 align="left">Local Data Base:</h3>
-</p>
-<p align="left">
-<a href="https://objectbox.io/crud-flutter-database/" target="_blank"> <img src="https://raw.githubusercontent.com/objectbox/objectbox-dart/main/.github/logo.png" alt="Objectbox" width="100" height="40"/> </a> 
-</p>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Criszx17Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Criszx17Dev" /> </p>
-
-
-<h2 align="left">SOME APPS I HAVE BUILT - FREELANCER:</h2>
-
-<h2 align="left">LA CABANITA STORE (3 APPS):</h2>
-<h3 align="left">- LA CABANITA - (WEB-APP):</h3>
- 
-In this Fast-food web app, customers can see and order food, get offers, discounts, and points per purchases to participate in monthly contests.
-you can test the entire app on the official url: https://lacabanita-store.web.app . 
-
-I built this app using:
-- Provider.
-- Freezed.
-- Firebase (storage, auth, firestore).
-- Go_Router.
-- Image_picker.
-- launchUrl (whatsapp, facebook, maps).
-- very_good_analysis.
-- dartz.
-- flutter_hooks.
-
-https://user-images.githubusercontent.com/80471939/222869808-19b91137-a597-4e6d-92d1-13f3b549df7b.mp4 
-
-<img width="720" alt="lacabanita_web_desktop" src="https://user-images.githubusercontent.com/80471939/222874773-c58a58ac-dea2-49b5-94ea-24ce245f05c9.png">
-
-
-<h3 align="left">- LA CABANITA - (MANAGER-APP):</h3>
-
-In this manager app has the control of all, create-update-delete products, offers, open and close the web app, and update store info when is closed,all customers registered are visibles there, able to pull to roullete and get a winner (see ranking and winners), etc.
-
-I built this app using:
-- Provider.
-- Freezed.
-- Image_picker.
-- Firebase (storage, firestore).
-- very_good_analysis.
-- cached_network_image
-- dartz.
-- flutter_hooks.
-
-https://user-images.githubusercontent.com/80471939/222877320-d9e04d5a-973d-4e62-8bec-e03181e5ee9c.mp4
-
-
-
-<h3 align="left"></h3>
-
-<h2 align="left">SOME APPS I HAVE BUILT TO REINFORCE KNOWLEDGE AND SOLVE PERSONAL PROBLEMS:</h2>
-
-<h2 align="left">TIME-MONEY:</h2>
-
-It is an app to calculate how long I have worked and correctly calculate how much money I will receive depending on my hourly salary. 
-I will add some features soon.
-
-I built this app using:
-- Flutter_Bloc.
-- Freezed.
-- Objectbox.
-- Material 3.
-
-https://user-images.githubusercontent.com/80471939/222861291-6728b069-f92f-4be1-a707-a0ad9c2dda68.mp4
-
-
-
-
-
-
-<div align = "center">
-
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=Criszx17Dev&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
+**Flutter Developer | Full-Stack Web | AI-Augmented Workflows**
 
 </div>
 
+The role of a software developer is changing. Writing code is no longer enough — and prompting AI without structure is not engineering. The developers making an impact today are the ones who integrate AI into a disciplined process: documented requirements, architecture decisions, test coverage, and code review at every step.
 
-<p align="center">
- 
-  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Criszx17Dev&" alt="Criszx17Dev" width="450"/>
- </p>
+That's how I build. Every project follows the [BMad Method](https://github.com/bmad-code-org/BMAD-METHOD) with [Claude Code](https://claude.com/claude-code) — not to skip engineering, but to enforce it. PRDs before code. Architecture before implementation. Tests ship with every story. Adversarial code review before merge. The result: production software with traceable decisions from brief to deployment.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Criszx17Dev&show_icons=true&locale=en&layout=compact" alt="Criszx17Dev" /></p>
+**4+ years in Flutter** building cross-platform apps for startups, businesses, and open source. Recently expanded into full-stack web with Next.js, React, and TypeScript — delivering a multi-tenant SaaS serving 3 businesses and commercial websites with CMS.
 
+<div align="center">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Criszx17Dev" alt="Criszx17Dev" /></a> </p>
+[![Website](https://img.shields.io/badge/chrisbp.com-00857a?style=for-the-badge&logo=safari&logoColor=white)](https://chrisbp.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-bobadilla-plasencia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:criszx17dev@gmail.com)
 
+</div>
 
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Mobile & Desktop (4+ years)**
+
+[![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+
+**Web**
+
+[![Web Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,astro,svelte,tailwind,html,css)](https://skillicons.dev)
+
+**Backend, Data & DevOps**
+
+[![Backend Skills](https://skillicons.dev/icons?i=firebase,vercel,git,github,githubactions,figma,vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+### Featured Work
+
+#### TimeMoney — Brownfield Modernization Showcase
+
+Cross-platform time & payment tracker modernized from Dart 2.x to 3.11+ through a structured 6-epic migration. **373 tests** at **92.3% coverage**, 8-job CI/CD pipeline, **Maestro E2E UI testing**, and dual-database persistence (ObjectBox + Drift). Every design decision, scope change, and tradeoff is [documented and traceable](https://github.com/ChrisBP-Dev/TimeMoney/tree/main/_bmad-output).
+
+https://github.com/user-attachments/assets/83805138-4817-42eb-874f-f50f1ae1223d
+
+#### Import Sales SaaS Platform — Multi-Tenant Production System
+
+Full-stack SaaS for USA-to-Peru import operations serving **3 businesses in production**. 10+ modules including real-time dashboard, order management with 8 automated states, POS with barcode scanner, and weekly courier consolidation. Built with Next.js, React, TypeScript, Firebase, and PWA.
+
+#### GP Stone Design — Commercial Website & CMS
+
+Professional bilingual website for a Naples, FL stone business with PWA admin panel for independent content management. Built with Next.js, Tailwind CSS, and Cloudinary.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Criszx17Dev&show_icons=true&hide_border=true&title_color=3793c4&icon_color=00857a&ring_color=00857a" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Criszx17Dev&layout=compact&hide_border=true&title_color=3793c4" alt="Top Languages" height="170" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Criszx17Dev&theme=github-compact&hide_border=true&area=true&area_color=00857a)
+
+</div>
