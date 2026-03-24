@@ -60,6 +60,28 @@ Professional bilingual website for a Naples, FL stone business with PWA admin pa
 
 ---
 
+### More Projects
+
+#### La Cabanita Store — Freelance (3 Apps)
+
+Suite of 3 cross-platform apps for a fast-food business: client web app, manager app, and local store app. Customers can order food, earn loyalty points, and participate in monthly contests. Built with Flutter, Provider, Freezed, Firebase, and Go_Router.
+
+**Client Web App** — [lacabanita-store.web.app](https://lacabanita-store.web.app)
+
+https://user-images.githubusercontent.com/80471939/222869808-19b91137-a597-4e6d-92d1-13f3b549df7b.mp4
+
+<img width="720" alt="La Cabanita Web Desktop" src="https://user-images.githubusercontent.com/80471939/222874773-c58a58ac-dea2-49b5-94ea-24ce245f05c9.png">
+
+**Manager App** — Full CRUD for products, offers, customers, roulette winners, and store settings.
+
+https://user-images.githubusercontent.com/80471939/222877320-d9e04d5a-973d-4e62-8bec-e03181e5ee9c.mp4
+
+#### GuardOwl — Google Competition Project
+
+Real-time security alert app for travelers using Flutter and Google Gemini AI API. AI-powered safety recommendations, incident alerts based on location, interactive maps, and emergency contacts. MVP delivered in 1+ month.
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ChrisBP-Dev&show_icons=true&hide_border=true&title_color=3793c4&icon_color=00857a&ring_color=00857a" alt="GitHub Stats" height="170" />
