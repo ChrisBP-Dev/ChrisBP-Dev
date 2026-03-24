@@ -62,9 +62,9 @@ Professional bilingual website for a Naples, FL stone business with PWA admin pa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Criszx17Dev&show_icons=true&hide_border=true&title_color=3793c4&icon_color=00857a&ring_color=00857a" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Criszx17Dev&layout=compact&hide_border=true&title_color=3793c4" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChrisBP-Dev&show_icons=true&hide_border=true&title_color=3793c4&icon_color=00857a&ring_color=00857a" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrisBP-Dev&layout=compact&hide_border=true&title_color=3793c4" alt="Top Languages" height="170" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Criszx17Dev&theme=github-compact&hide_border=true&area=true&area_color=00857a)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChrisBP-Dev&theme=github-compact&hide_border=true&area=true&area_color=00857a)
 
 </div>
